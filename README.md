@@ -1,6 +1,5 @@
-- 👋 Czesc, jestem @Cypissekk
-- 👀 Lubie robic discord boty (jezyki: js, c++, c#, html)
-- 🌱 Aktualnie ucze sie javy
-- 📫 Kontakt na dc: !!! rozjechanie_top1#0001
+- 👋 Czesc, jestem @carnuh
+- 👀 krece czity
+- 🌱 Aktualnie ucze sie jezyka czarnych
+- 📫 Kontakt na dc: nw
 
-PS robie to z gotowca bo mi sie nie chce 😎
